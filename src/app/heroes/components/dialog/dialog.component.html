@@ -1,0 +1,24 @@
+<h1 mat-dialog-title>¡Atención!</h1>
+
+<div mat-dialog-content>
+
+  <p>¿Seguro que desea eliminar a {{data.superhero}}?</p>
+
+  <div mat-dialog-actions class="justify-content-between">
+    <button
+        mat-flat-button
+        (click)="onNoClick()"
+      >
+        Cancelar
+    </button>
+
+    <button
+        mat-flat-button
+        color="warn"
+        (click)="onConfirm()"
+      >
+        Confirmar
+    </button>
+  </div>
+
+</div>

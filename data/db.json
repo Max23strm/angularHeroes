@@ -42,10 +42,11 @@
     {
       "id": "dc-arrow",
       "superhero": "Green Arrow",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Oliver Queen",
       "first_appearance": "More Fun Comics #73",
-      "characters": "Oliver Queen"
+      "characters": "Oliver Queen, Connor Hawke",
+      "alt_img": null
     },
     {
       "id": "dc-wonder",
@@ -65,11 +66,12 @@
     },
     {
       "id": "dc-robin",
-      "superhero": "Robin/Nightwing",
+      "superhero": "Nightwing",
       "publisher": "DC Comics",
       "alter_ego": "Dick Grayson",
       "first_appearance": "Detective Comics #38",
-      "characters": "Dick Grayson"
+      "characters": "Dick Grayson",
+      "alt_img": null
     },
     {
       "id": "dc-blue",
@@ -166,6 +168,24 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "m2OLNCf",
+      "superhero": "Red Robin",
+      "publisher": "DC comics",
+      "alter_ego": "Tim Drake",
+      "first_appearance": "Kingdom Come #2",
+      "alt_img": "https://i.pinimg.com/originals/e3/d6/7f/e3d67f4e734ddf7f2b6b2e49ad08a75d.jpg",
+      "characters": "Tim Drake, Dick Grayson, Jason Todd"
+    },
+    {
+      "id": "1T8yuis",
+      "superhero": "Red Hood",
+      "publisher": "DC comics",
+      "alter_ego": "Jason Todd",
+      "first_appearance": " Detective Comics #168",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/RedHood-2016.jpg/220px-RedHood-2016.jpg",
+      "characters": "Jason Todd"
     }
   ]
 }
